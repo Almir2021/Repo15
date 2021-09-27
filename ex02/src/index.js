@@ -1,11 +1,4 @@
- var numArray = [];
- var i 
- for (i = 0; i<3 ; i++) {
-     numArray.push(1);
 
- } 
- console.log (numArray);
- console.log(i);
 
  function checkVariableScope (){
    `use strict`;
@@ -35,4 +28,4 @@ return i;
 
  module.exports = checkVariableScope;
 
- console.log ();
+ 
